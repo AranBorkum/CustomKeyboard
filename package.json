@@ -1,0 +1,22 @@
+{
+  "name": "jeremykeyboard",
+  "version": "1.0.0",
+  "description": "---",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AranBorkum/CustomKeyboard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AranBorkum/CustomKeyboard/issues"
+  },
+  "homepage": "https://github.com/AranBorkum/CustomKeyboard#readme",
+  "dependencies": {
+    "ergogen": "^4.1.0"
+  }
+}
